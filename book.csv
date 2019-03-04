@@ -1,0 +1,998 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,german,english,remind
+0,0,0,0,0,0,0,das,"the (definitive article; nominative/accusative singular neuter of ""der""); this; that (demonstrative pronoun); who; that; which (relative pronoun)	definitive article; demonstrative pronoun; relative pronoun",0
+1,1,1,1,1,1,1,ist,"(he/she/it) is (3rd-person singular present of ""sein"")	verb",0
+2,2,2,2,2,2,2,du,you (informal; addressing one person)	personal pronoun,0
+3,3,3,3,3,3,3,ich,I (not capitalized unless it is in the beginning of a sentence); ego (capitalized - Ich)	personal pronoun; noun,0
+4,4,4,4,4,4,4,nicht,not	adverb,0
+5,5,5,5,5,5,5,die,the (definitive article; nominative/accusative; singular feminine or plural form of der); that; which; who (relative pronoun); this one; that one; these ones; those ones (demonstrative pronoun)	definitive article; demonstrative pronoun; relative pronoun,0
+6,6,6,6,6,6,6,es,it (neuter gender)	personal pronoun,0
+7,7,7,7,7,7,7,und,and	conjunction,0
+8,8,8,8,8,8,8,Sie,you (polite or formal; addressing one person or a group of people)	personal pronoun,0
+9,9,9,9,9,9,9,der,the (definite article; nominitive singular masculine; genitive/dative singular feminine; genitive plural); who; that; which (relative pronoun; singular)	definitive article; relative pronoun,0
+10,10,10,10,10,10,10,was,what (interrogative); which (relative)	interrogative pronoun; relative pronoun,0
+11,11,11,11,11,11,11,wir,we (nominative plural)	personal pronoun,0
+12,12,12,12,12,12,12,zu,to; in; at; on; into; for (preposition); too; to; towards; closed; shut (adverb)	preposition; adverb,0
+13,13,13,13,13,13,13,ein,a; an (indefinite article; masculine and neuter nominative; neuter accusative); one (number)	indefinite article; cardinal number,0
+14,14,14,14,14,14,14,er,he; it (masculine)	personal pronoun,0
+15,15,15,15,15,15,15,in,in; within; at; pertaining to (in + dative); into (in + accusative)	preposition,0
+16,16,16,16,16,16,16,sie,she; it (feminine); they; you (plural)	personal pronoun,0
+17,17,17,17,17,17,17,mir,"me; to me (dative singular of ""ich"")	personal pronoun",0
+18,18,18,18,18,18,18,mit,with	preposition,-1
+19,19,19,19,19,19,19,ja,yes; really; definitely; of course (adverb); a yes (capitalized as a noun - Ja)	adverb; noun,0
+20,20,20,20,20,20,20,wie,how (adverb); like; as (conjunction); how (capitalized as a noun - Wie)	adverb; conjunction; noun,0
+21,21,21,21,21,21,21,den,"the (definitive article; accusative masculine singular; dative plural of ""der""); this; that one (demonstrative pronoun; accusative masculine singular of ""der""); who; that; which (relative pronoun)	definitive article; demonstrative pronoun; relative pronoun",0
+22,22,22,22,22,22,22,auf,on; onto; at	preposition,0
+23,23,23,23,23,23,23,mich,"me (accusative singular of ""ich""); myself (reflexive pronoun)	personal pronoun; reflextive pronoun",0
+24,24,24,24,24,24,24,dass/daß,"that (""daß"" is an obsolete spelling of ""dass"" used prior to the German spelling reform of 1996)	conjunction",0
+25,25,25,25,25,25,25,so,so; that; as; if	adverb; conjunction,0
+26,26,26,26,26,26,26,hier,here	adverb,0
+27,27,27,27,27,27,27,eine,a; an (feminine nominative and accusative)	indefinite article,1
+28,28,28,28,28,28,28,wenn,if; when; if; the ifs (capitalized as a noun - Wenn)	conjunction; noun,0
+29,29,29,29,29,29,29,hat,"to have (third-person singular present of ""haben""; e.g. ""er/sie/es hat"")	verb",0
+30,30,30,30,30,30,30,all,all; all the; every; everything; everybody; everyone	indefinite pronoun; adjective,0
+31,31,31,31,31,31,31,sind,"(we/they/you all) are (1st- and 3-rd person plural present of ""sein"")	verb",0
+32,32,32,32,32,32,32,von,from; of (+ Dative)	preposition,-1
+33,33,33,33,33,33,33,dich,you (accusative of du); yourself (accusative)	personal pronoun; reflexive pronoun,0
+34,34,34,34,34,34,34,war,"(I/he/she/it) was (1st- and 3-rd person singular preterite of ""sein"") languagedaily.com	verb",0
+35,35,35,35,35,35,35,haben,to have; possess; own; to have (auxiliary verb forms the perfect and past perfect tense)	verb; auxiliary verb,0
+36,36,36,36,36,36,36,für,for (+ Accusative)	preposition,0
+37,37,37,37,37,37,37,an,to; on; at; by; about; against	preposition,0
+38,38,38,38,38,38,38,habe,"to have (1st-person singular present/subjunctive; 3rd-person singular subjunctive I; imperative singular of ""haben""; e.g. ""ich habe"")	verb",0
+39,39,39,39,39,39,39,da,there; here; then; so (adverb); since; as; given that (conjunction)	adverb; conjunction,0
+40,40,40,40,40,40,40,nein,no; a no (capitalized as a noun - nein)	adverb; noun,0
+41,41,41,41,41,41,41,bin,"(I) am (1st-person singular present of ""sein"")	verb",0
+42,42,42,42,42,42,42,noch,still; yet (adverb); nor (conjuction)	adverb; conjunction,0
+43,43,43,43,43,43,43,dir,"you; to you (dative of ""du""); yourself; to yourself (dative)	personal pronoun; reflexive pronoun",0
+44,44,44,44,44,44,44,uns,"us (accusative and dative of ""wir""); ourselves (accusative and dative)	personal pronoun; reflexive pronoun",0
+45,45,45,45,45,45,45,sich,oneself; itself; himself; herself; themselves (3-rd person singular and plural; accusative and dative)	reflexive pronoun,0
+46,46,46,46,46,46,46,nur,only; merely; just; languagedaily dot com	adverb,0
+47,47,47,47,47,47,47,einen,a; an (masculine accusative)	indefinite afticle,1
+48,48,48,48,48,48,48,kann,"(I) can; am able to (he/she/it) can (1st- and 3-rd person singular present of ""können"")	verb",0
+49,49,49,49,49,49,49,dem,"the (definite article; dative singular masculine/neuter of ""der""); to whom; to which (relative pronoun; dative singular masculine/neuter of ""der"")	definitive article; relative pronoun",0
+50,50,50,50,50,50,50,auch,also; too; as well	adverb,0
+51,51,51,51,51,51,51,schon,"already; just; yet; indeed; surely; handle with care; spare (imperative singular; and colloquial 1st-person singular present of ""schonen"")	adverb; verb",0
+52,52,52,52,52,52,52,als,than; when; as; while; as if	conjunction,-1
+53,53,53,53,53,53,53,dann,then; after that	adverb,0
+54,54,54,54,54,54,54,ihn,"him; it (accusative of ""er"")	personal pronoun",0
+55,55,55,55,55,55,55,mal,"times (adverb); to paint (imperative singular; and colloquial 1st-person singular present of ""malen""); time (capitalized as a noun - Mal)	adverb; verb; noun",0
+56,56,56,56,56,56,56,hast,"(you) have (2nd-person singular present of the verb ""haben""; e.g. ""du hast"")	verb",0
+57,57,57,57,57,57,57,sein,to be; to have; to exist; there is / it is; languagedaily.com	verb,0
+58,58,58,58,58,58,58,ihr,you; you all (plural; familiar; personal pronoun); her; to her (dative of sie; personal pronoun); ; her; its; their (possessive pronoun)	personal pronoun; possessive pronoun,0
+59,59,59,59,59,59,59,aus,out; over; finished; up (adverb)from; out of; of; for; because of (preposition)	adverb; preposition,0
+60,60,60,60,60,60,60,um,at (time); around (+ accusative); in order to; so as to (conjunction)	preposition; conjunction,0
+61,61,61,61,61,61,61,aber,again (adverb); but; though (conjunction)	adverb; conjunction,0
+62,62,62,62,62,62,62,meine,"mine (feminine nominative/accusative singular; and nominative/accusative plural form of ""mein""); to think; to mean (inflections of the verb ""meinen"")	possessive pronoun; verb",0
+63,63,63,63,63,63,63,Aber,objection (noun)	noun,0
+64,64,64,64,64,64,64,wird,"(he/she/it) becomes (3rd-person singular present of ""werden"")	verb",0
+65,65,65,65,65,65,65,doch,but; though; however; yet (conjunction); after all; really; yes; surely (adverb)	conjunction; adverb,0
+66,66,66,66,66,66,66,mein,my	possessive pronoun,0
+67,67,67,67,67,67,67,bist,"(you) are (2nd-person singular present of ""sein"")",0
+68,68,68,68,68,68,68,im,"in the (contraction of ""in"" + ""dem""; used with masculine or neuter nouns in the dative case)	preposition",0
+69,69,69,69,69,69,69,keine,"none; nobody; not any (pronoun); not a (negative indefinite article; accusative/nominative feminine and plural forms of ""kein"")	pronoun; article",0
+70,70,70,70,70,70,70,gut,good (adjective); well (adverb); property; possessions; goods (capitalized as a noun - Gut)	adjective; adverb; noun,0
+71,71,71,71,71,71,71,oder,or; isnt' it; isn't that so	conjunction; particle,0
+72,72,72,72,72,72,72,weiß,"white (adjective); (I) know; (he/she/it) knows (1st- and 3rd-person singular present of ""wissen"")	adjective; verb",-1
+73,73,73,73,73,73,73,jetzt,now; yet (adverb); the present; now (capitalized as a noun - Jetzt)	adverb; noun,0
+74,74,74,74,74,74,74,man,one; they; you	indefinite pronoun,0
+75,75,75,75,75,75,75,nach,to; after; according to (preposition) (+ dative); after; behind (adverb)	preposition; adverb,0
+76,76,76,76,76,76,76,werden,to get; to become; will; to be going to; to be done (forms the passive voice)	verb; auxiliary verb,0
+77,77,77,77,77,77,77,wo,where; somewhere; when	adverb; conjunction,0
+78,78,78,78,78,78,78,Oh,oh	interjection,0
+79,79,79,79,79,79,79,will,"(I) want to; (he/she/it) wants to (1st- and 3-rd person singular present of ""wollen"")	verb",0
+80,80,80,80,80,80,80,also,so; therefore; thus (conjunction); so; well (adverb); well (interjection)	conjunction; adverb; interjection,0
+81,81,81,81,81,81,81,mehr,"more; no longer (adverb); more (comparative form of ""viel"" and ""sehr""); increase; excess (capitalized as a noun - Mehr)	adverb; indefinite pronoun; noun",0
+82,82,82,82,82,82,82,immer,always	adverb,0
+83,83,83,83,83,83,83,muss,"(I) must/have to; (he/she/it) must; has to (1st- and 3rd-person singular present of ""müssen"")a must (capitalized as a noun - das Muss)	verb; noun",0
+84,84,84,84,84,84,84,warum,why	adverb,0
+85,85,85,85,85,85,85,bei,at; by; near; with; among (+ dative)	preposition,0
+86,86,86,86,86,86,86,etwas,some; something; any (pronoun); somewhat; slightly; a little; a bit (adverb); something (capitalized as a noun - Etwas)	indefinite pronoun; adverb; noun,0
+87,87,87,87,87,87,87,nichts,nothing	indefinite pronoun,0
+88,88,88,88,88,88,88,bitte,"please; you're welcome; excuse me; please do; go ahead; request; plea (capitalized as a noun - die Bitte); to ask (inflection of the verb ""bitten"")	interjection; noun; verb",0
+89,89,89,89,89,89,89,wieder,again	adverb,0
+90,90,90,90,90,90,90,machen,to make; do; prepare; to produce; to go; to put	verb,0
+91,91,91,91,91,91,91,diese,"this; these (nominative/accusative feminine and plural of ""dieser"")	demonstrative pronoun",0
+92,92,92,92,92,92,92,vor,before; in front of (preposition); ago; forwards (adverb); languagedaily dot com	preposition; adverb,0
+93,93,93,93,93,93,93,können,to be able to; can; to be allowed to; may; to know how to; ability; skill (capitalized when noun - Können)	verb; auxiliary verb; noun,0
+94,94,94,94,94,94,94,hab,"to have (1st-person present; colloquial; imperative singular of ""haben""; e.g. ""ich hab"")	verb",0
+95,95,95,95,95,95,95,zum,to the (contraction of zu + dem)	preposition,0
+96,96,96,96,96,96,96,gehen,to go; walk; to leave; to work; to be in progress; last; to be going; to approach	verb,0
+97,97,97,97,97,97,97,sehr,languagedaily.com; very	adverb,0
+98,98,98,98,98,98,98,geht,"(he/she/it) goes; is going; (you all) go; are going (3rd-person singular present; 2nd-person plural present; imperative plural of ""gehen"")	verb",0
+99,99,99,99,99,99,99,sehen,to see; look; to take care of; to view; watch; observe; to notice	verb,0
+100,100,100,100,100,100,100,tun,to do; make; to put; doings; conduct (capitalized as a noun - das Tun)	verb; noun,0
+101,101,101,101,101,101,101,Mann,man; male; husband	noun,0
+102,102,102,102,102,102,102,euch,"you; yourselves (plural form; accusative and dative of ""ihr"")	personal pronoun",0
+103,103,103,103,103,103,103,wer,who; the person who; somebody; someone	interrogative pronoun; relative pronoun; indefinite pronoun,0
+104,104,104,104,104,104,104,wirklich,real; true; natural	adjective,0
+105,105,105,105,105,105,105,ihm,"him; to him (dative of ""er""); it; to it (dative of ""es"")	personal pronoun",0
+106,106,106,106,106,106,106,einem,a; an (masculine and neuter dative)	indefinite article,0
+107,107,107,107,107,107,107,werde,"(I) become (1st-person singular present; 1st- and 3rd-person singular subjunctive I; imperative singular of ""werden"")	verb; auxiliary verb; noun",0
+108,108,108,108,108,108,108,sagen,to say; tell; languagedaily.com	verb,0
+109,109,109,109,109,109,109,deine,"your (nominative/accusative feminine and plural of ""dein"")	possessive pronoun",0
+110,110,110,110,110,110,110,denn,for; because; then; than (conjunction); then (adverb)	conjunction; adverb,0
+111,111,111,111,111,111,111,danke,"thank you!; thanks!; inflection of the verb ""danken""	interjection; verb",0
+112,112,112,112,112,112,112,andere,other; different; next	indefinite pronoun,0
+113,113,113,113,113,113,113,über,above; over; across; beyond; about; on	preposition,0
+114,114,114,114,114,114,114,komm,"come (1st-person singular present; imperative singular of ""kommen"")	verb",0
+115,115,115,115,115,115,115,einer,a; an (feminine genitive and dative)	indefinite afticle,0
+116,116,116,116,116,116,116,einfach,easy; simple; plain; single; one-way; simply; just	adjective; adverb,0
+117,117,117,117,117,117,117,soll,"(I/he/she) should (1st- and 3rd-person singular present of ""sollen""); debit; target (capitalized as a noun - die Soll)	verb; noun",0
+118,118,118,118,118,118,118,müssen,must; have to	verb; auxiliary verb,0
+119,119,119,119,119,119,119,nie,never	adverb,0
+120,120,120,120,120,120,120,gibt,"(he/she/it) gives; is giving (3rd-person singular present of ""geben""); es gibt = there is; there are	verb",0
+121,121,121,121,121,121,121,hey,hi; hey	interjection,-1
+122,122,122,122,122,122,122,des,"the (genitive singular masculine/neuter of ""der"" and ""das"")	definitive article",0
+123,123,123,123,123,123,123,tut,"(he/she/it) does; is doing; (you all) do; are doing (3rd-person singular present; 2nd-person plural present; imperative plural of ""tun"")	verb",0
+124,124,124,124,124,124,124,Leben,life; to live (verb; not capitalized)	noun; verb,0
+125,125,125,125,125,125,125,willst,"(you) want to (2nd-person singular present of ""wollen"")	verb; auxiliary verb",0
+126,126,126,126,126,126,126,viel,much; a lot	adjective; indefinite pronoun,0
+127,127,127,127,127,127,127,los,loose; not attached; rid of	advective,0
+128,128,128,128,128,128,128,Zeit,time; age; tense (grammar)	noun,0
+129,129,129,129,129,129,129,Ihnen,you; to you (dative of Sie)	personal pronoun,0
+130,130,130,130,130,130,130,am,on; at; on the; at the	preposition,0
+131,131,131,131,131,131,131,würde,"(I/he/she/it) would become (1st- and 3rd-person singular subjunctive II of ""werden""); dignity; honor (capitalized as a noun - die Würde)	verb; noun",0
+132,132,132,132,132,132,132,hatte,"to have (1st- and 3rd-person singular preterite of the verb ""haben"")	verb",-1
+133,133,133,133,133,133,133,kannst,"(you) can (2nd-person singular present of ""können"")",0
+134,134,134,134,134,134,134,wissen,to know; knowledge (capitalized as a noun - das Wissen)	verb; noun,0
+135,135,135,135,135,135,135,zurück,back; backwards	adverb,0
+136,136,136,136,136,136,136,heute,today; nowadays	adverb,0
+137,137,137,137,137,137,137,damit,with it; thereby; so that; in order that	adverb; conjunction,0
+138,138,138,138,138,138,138,gesagt,"said (past participle of ""sagen"")",0
+139,139,139,139,139,139,139,Ihr,your (politely or formally addressing one person)	possessive pronoun,0
+140,140,140,140,140,140,140,macht,"does; makes; make; do (3rd-and 2nd-person singular present; imperative plural of ""machen""); power; might; potency (capitalized as a noun - die Macht)	verb; noun",0
+141,141,141,141,141,141,141,weißt,"(you/""du"") know (2nd-person singular present of ""wissen"")	verb",0
+142,142,142,142,142,142,142,kein,no; not a; not an; languagedaily dot com	indefinite pronoun,0
+143,143,143,143,143,143,143,wollen,to want; to wish; to desire (verb); to want to do smth (auxiliary verb); woolen (adjective)	verb; auxiliary verb; adjective,0
+144,144,144,144,144,144,144,wurde,"(I/he/she/it) became (1st- and 3rd-person singular preterite of ""werden"")	verb",1
+145,145,145,145,145,145,145,wollte,"(I/he/she/it) wanted to; would want to (1st- and 3rd-person singular preterite/subjunctive II of ""wollen"")	verb; auxiliary verb",0
+146,146,146,146,146,146,146,Frau,woman; wife; Mrs/Ms	noun,0
+147,147,147,147,147,147,147,wäre,"(I/he/she/it) would be (1st- and 3rd-person singular subjunctive II of ""sein"")	verb",0
+148,148,148,148,148,148,148,Gott,God; god; deity	noun,0
+149,149,149,149,149,149,149,Leute,people; folk	noun,0
+150,150,150,150,150,150,150,meinen,mean,0
+151,151,151,151,151,151,151,dieser,"this; these (masculine singular); (also; feminine dative/genitive and plural genitive form of ""diese"")	demonstrative pronoun",0
+152,152,152,152,152,152,152,dein,your,0
+153,153,153,153,153,153,153,kommt,coming,0
+154,154,154,154,154,154,154,kommen,come,0
+155,155,155,155,155,155,155,Na,N / A,-1
+156,156,156,156,156,156,156,sicher,for sure,0
+157,157,157,157,157,157,157,ganz,all,0
+158,158,158,158,158,158,158,Jetzt,Now,0
+159,159,159,159,159,159,159,könnte,"(I/he/she/it) could (1st- and 3-rd person singular subjunctive II of ""können"")	verb",0
+160,160,160,160,160,160,160,Mr,mr,0
+161,161,161,161,161,161,161,zur,to,0
+162,162,162,162,162,162,162,Hast,Have,0
+163,163,163,163,163,163,163,Gut,Well,0
+164,164,164,164,164,164,164,hätte,"to have (1st- and 3rd-person singular subjunctive II of the verb ""haben"")	verb",0
+165,165,165,165,165,165,165,weil,because,0
+166,166,166,166,166,166,166,Hallo,Hello,0
+167,167,167,167,167,167,167,Okay,OK,0
+168,168,168,168,168,168,168,ab,from (+ Dative); as of (+Accusative/Dative) (preposition); off; away (adverb)	preposition; adverb,0
+169,169,169,169,169,169,169,waren,"(we/they/Sie) were (1st- and 3rd-person plural preterite of ""sein"")	verb",0
+170,170,170,170,170,170,170,bis,to,0
+171,171,171,171,171,171,171,Vielleicht,Perhaps,0
+172,172,172,172,172,172,172,Eine,A,0
+173,173,173,173,173,173,173,weg,path,0
+174,174,174,174,174,174,174,seine,his,0
+175,175,175,175,175,175,175,lassen,to let,0
+176,176,176,176,176,176,176,Vater,father,0
+177,177,177,177,177,177,177,gesehen,seen,0
+178,178,178,178,178,178,178,Nun,Now,0
+179,179,179,179,179,179,179,gerade,just,0
+180,180,180,180,180,180,180,glaube,faith,0
+181,181,181,181,181,181,181,Tag,Day,0
+182,182,182,182,182,182,182,Geld,money,0
+183,183,183,183,183,183,183,gemacht,made,0
+184,184,184,184,184,184,184,schön,beautiful; lovely; good; great; nice; fine (adjective); well; beautifully; nicely; really (adverb)	adjective; adverb,0
+185,185,185,185,185,185,185,sagte,"(I/he/she/it) said; told (1st- and 3rd-person singular preterite; 1st- and 3rd-person singular subjunctive II of ""sagen"")	verb",1
+186,186,186,186,186,186,186,Sir,Sir,0
+187,187,187,187,187,187,187,sollte,should,0
+188,188,188,188,188,188,188,wirst,"(you) become (2nd-person singular present of ""werden"")	verb",0
+189,189,189,189,189,189,189,keinen,no,0
+190,190,190,190,190,190,190,durch,by,0
+191,191,191,191,191,191,191,zwei,two,0
+192,192,192,192,192,192,192,diesen,this,0
+193,193,193,193,193,193,193,passiert,happens,0
+194,194,194,194,194,194,194,wohl,well,0
+195,195,195,195,195,195,195,vielleicht,perhaps,0
+196,196,196,196,196,196,196,ihre,hers; its; theirs	possessive pronoun,0
+197,197,197,197,197,197,197,Mutter,mother,0
+198,198,198,198,198,198,198,reden,talk,0
+199,199,199,199,199,199,199,dachte,thought,0
+200,200,200,200,200,200,200,möchte,would like to,0
+201,201,201,201,201,201,201,lhr,LHR,0
+202,202,202,202,202,202,202,gehört,belongs,0
+203,203,203,203,203,203,203,musst,"(you) must; have to (2nd-person singular present of ""müssen"")	verb",0
+204,204,204,204,204,204,204,sag,"(you) say; tell; (I) say (imperative singular; and colloquial 1st-person singular present of ""sagen"")",0
+205,205,205,205,205,205,205,raus,Out,0
+206,206,206,206,206,206,206,paar,pair,0
+207,207,207,207,207,207,207,besser,better,0
+208,208,208,208,208,208,208,ob,if,0
+209,209,209,209,209,209,209,her,here,0
+210,210,210,210,210,210,210,Ordnung,order,0
+211,211,211,211,211,211,211,meiner,"genitive of ""ich""; genitive/dative feminine of ""mein""; genitive plural of ""mein""	personal pronoun; possessive pronoun",0
+212,212,212,212,212,212,212,klar,clear,0
+213,213,213,213,213,213,213,ihnen,them; to them (dative of sie)	personal pronoun,0
+214,214,214,214,214,214,214,geben,to give; to put; to deal; there is/are	verb,0
+215,215,215,215,215,215,215,geh,"go (imperative singular of ""gehen"")	verb",0
+216,216,216,216,216,216,216,Los,lot; fate; lottery ticket	noun,0
+217,217,217,217,217,217,217,diesem,this,0
+218,218,218,218,218,218,218,meinem,my,0
+219,219,219,219,219,219,219,lange,Long,0
+220,220,220,220,220,220,220,sagt,"(he/she/it) says; (they) say; (it's) said (3rd-person singular present; 2nd-person plural present; imperative plural of ""sagen"")",0
+221,221,221,221,221,221,221,Lass,let,0
+222,222,222,222,222,222,222,dieses,this,0
+223,223,223,223,223,223,223,helfen,help,0
+224,224,224,224,224,224,224,unsere,"ours (possessive pronoun; femine or plural nominative/accuative form of ""unser"")	possessive pronoun",0
+225,225,225,225,225,225,225,Weg,path,0
+226,226,226,226,226,226,226,selbst,even,0
+227,227,227,227,227,227,227,Nur,Just,0
+228,228,228,228,228,228,228,finden,Find,0
+229,229,229,229,229,229,229,jemand,someone,0
+230,230,230,230,230,230,230,denke,think,0
+231,231,231,231,231,231,231,ach,oh!	interjection,0
+232,232,232,232,232,232,232,Nacht,night,0
+233,233,233,233,233,233,233,genau,exactly,0
+234,234,234,234,234,234,234,gar,at all,0
+235,235,235,235,235,235,235,Welt,world,0
+236,236,236,236,236,236,236,Mädchen,girl,0
+237,237,237,237,237,237,237,ins,"to the; into the (contraction of ""in"" + ""das""; used with neuter nouns in the accusative case)	preposition",0
+238,238,238,238,238,238,238,hin,down,0
+239,239,239,239,239,239,239,vom,from,0
+240,240,240,240,240,240,240,machst,"(you) are doing (2nd-person singular present of ""machen"")	verb",0
+241,241,241,241,241,241,241,weiter,continue,-1
+242,242,242,242,242,242,242,Leid,suffering,0
+243,243,243,243,243,243,243,gleich,equal,0
+244,244,244,244,244,244,244,ohne,without,0
+245,245,245,245,245,245,245,Menschen,People,0
+246,246,246,246,246,246,246,deinen,your,0
+247,247,247,247,247,247,247,leid,suffering,0
+248,248,248,248,248,248,248,anrufen,to call; phone	verb,0
+249,249,249,249,249,249,249,Wieso,How so,0
+250,250,250,250,250,250,250,arbeiten, 	verb,0
+251,251,251,251,251,251,251,dort,there,0
+252,252,252,252,252,252,252,Hause,home,0
+253,253,253,253,253,253,253,sollten,should,0
+254,254,254,254,254,254,254,davon,from that,0
+255,255,255,255,255,255,255,zusammen,together,0
+256,256,256,256,256,256,256,unser,"our (personal pronoun; genitive of ""wir""); our; ours (possessive pronoun; shows possession/affiliation to a group of people)	personal pronoun; possessive pronoun",0
+257,257,257,257,257,257,257,Ok,OK,0
+258,258,258,258,258,258,258,Hör,Listen,0
+259,259,259,259,259,259,259,Freund,friend,0
+260,260,260,260,260,260,260,richtig,right,0
+261,261,261,261,261,261,261,Angst,fear; anxiety	noun,0
+262,262,262,262,262,262,262,Bist,are,0
+263,263,263,263,263,263,263,Mit,With,0
+264,264,264,264,264,264,264,viele,lots,0
+265,265,265,265,265,265,265,sieht,looks,0
+266,266,266,266,266,266,266,Haus,House,0
+267,267,267,267,267,267,267,tot,dead,-1
+268,268,268,268,268,268,268,sollen,should,0
+269,269,269,269,269,269,269,Arbeit,work; labor; job; employment	noun,0
+270,270,270,270,270,270,270,ganze,whole,0
+271,271,271,271,271,271,271,getan,"done (past participle of ""tun"")	verb",0
+272,272,272,272,272,272,272,okay,OK,0
+273,273,273,273,273,273,273,rein,purely,0
+274,274,274,274,274,274,274,Moment,moment,1
+275,275,275,275,275,275,275,bleiben,stay,0
+276,276,276,276,276,276,276,brauchen,need,0
+277,277,277,277,277,277,277,Weil,Because,0
+278,278,278,278,278,278,278,Kinder,children,0
+279,279,279,279,279,279,279,unter,under,0
+280,280,280,280,280,280,280,Für,For,0
+281,281,281,281,281,281,281,Problem,problem,0
+282,282,282,282,282,282,282,dafür,for this,0
+283,283,283,283,283,283,283,Herr,Sir,0
+284,284,284,284,284,284,284,Haben,To have,0
+285,285,285,285,285,285,285,wegen,because of,0
+286,286,286,286,286,286,286,Jack,Jack,0
+287,287,287,287,287,287,287,geht's,it's,0
+288,288,288,288,288,288,288,liebe,love,0
+289,289,289,289,289,289,289,genug,enough,0
+290,290,290,290,290,290,290,dabei,there,0
+291,291,291,291,291,291,291,bringen,bring,0
+292,292,292,292,292,292,292,Ihre,yours (singular and plural)	possessive pronoun,0
+293,293,293,293,293,293,293,'ne,'ne,0
+294,294,294,294,294,294,294,gegen,against,0
+295,295,295,295,295,295,295,schnell,fast,0
+296,296,296,296,296,296,296,nun,now,0
+297,297,297,297,297,297,297,eines,a; an (masculine and neuter genitive)	indefinite afticle,0
+298,298,298,298,298,298,298,brauche,need,0
+299,299,299,299,299,299,299,Abend,evening; eve; night	noun,0
+300,300,300,300,300,300,300,hatten,had,0
+301,301,301,301,301,301,301,Jahre,years,0
+302,302,302,302,302,302,302,Mach,Mach,0
+303,303,303,303,303,303,303,Bruder,Brothers,0
+304,304,304,304,304,304,304,Sache,Thing,0
+305,305,305,305,305,305,305,hören,hear,0
+306,306,306,306,306,306,306,Sohn,son,0
+307,307,307,307,307,307,307,seit,since,0
+308,308,308,308,308,308,308,Morgen,morning,0
+309,309,309,309,309,309,309,drei,three,0
+310,310,310,310,310,310,310,steht,stands,0
+311,311,311,311,311,311,311,Scheiße,crap,0
+312,312,312,312,312,312,312,mag,like,0
+313,313,313,313,313,313,313,sei,"(you) be; (I) am [said to be]; (he/she/it) is [said to be] (1st- and 3rd-person singular subjunctive I; and imperative singular of ""sein"")",0
+314,314,314,314,314,314,314,gib,"give (imperative singular of ""geben"")	verb",0
+315,315,315,315,315,315,315,konnte,"(I/he/she/it) could (1st- and 3rd-person singular preterite of ""können"")",-1
+316,316,316,316,316,316,316,habt,"to have (imperative plural; and 2nd-person plural present of ""haben"")",0
+317,317,317,317,317,317,317,einmal,once,0
+318,318,318,318,318,318,318,heißt,called,0
+319,319,319,319,319,319,319,OK,OK,0
+320,320,320,320,320,320,320,Kopf,head,0
+321,321,321,321,321,321,321,Hilfe,Help,0
+322,322,322,322,322,322,322,Familie,family,0
+323,323,323,323,323,323,323,Baby,infant,0
+324,324,324,324,324,324,324,Dich,You,0
+325,325,325,325,325,325,325,Sind,are,0
+326,326,326,326,326,326,326,erst,first,0
+327,327,327,327,327,327,327,fertig,finished,0
+328,328,328,328,328,328,328,gefunden,found,-1
+329,329,329,329,329,329,329,seid,"(we/they/you all) are; (you) be (2nd-person plural present and imperative plural of ""sein"")",0
+330,330,330,330,330,330,330,kam,came,0
+331,331,331,331,331,331,331,nehmen,to take,0
+332,332,332,332,332,332,332,Alte,old man; old woman; old lady	noun,0
+333,333,333,333,333,333,333,morgen,morning,0
+334,334,334,334,334,334,334,sprechen,speak,0
+335,335,335,335,335,335,335,sofort,immediately,0
+336,336,336,336,336,336,336,allein,alone; by oneself; on one's own (adjective); alone (adverb); but; however (conjunction)	adjective; adverb; conjunction,0
+337,337,337,337,337,337,337,Hat,Has,-1
+338,338,338,338,338,338,338,Jahren,years,0
+339,339,339,339,339,339,339,Kind,child,0
+340,340,340,340,340,340,340,seinen,his,0
+341,341,341,341,341,341,341,Genau,Exactly,0
+342,342,342,342,342,342,342,daran,it,0
+343,343,343,343,343,343,343,Junge,Boy,0
+344,344,344,344,344,344,344,Minuten,minutes,0
+345,345,345,345,345,345,345,bevor,before,0
+346,346,346,346,346,346,346,Stadt,city,0
+347,347,347,347,347,347,347,beim,at the,-1
+348,348,348,348,348,348,348,sterben,to die,0
+349,349,349,349,349,349,349,warst,"(you) were (2nd-person singular preterite of ""sein"")",0
+350,350,350,350,350,350,350,Recht,Law,0
+351,351,351,351,351,351,351,glauben,believe,0
+352,352,352,352,352,352,352,Warte,Wait,0
+353,353,353,353,353,353,353,darüber,about that,0
+354,354,354,354,354,354,354,deiner,yours,0
+355,355,355,355,355,355,355,lhre,Their,0
+356,356,356,356,356,356,356,deinem,your,0
+357,357,357,357,357,357,357,Ende,The End,0
+358,358,358,358,358,358,358,He,He,0
+359,359,359,359,359,359,359,Dinge,things,0
+360,360,360,360,360,360,360,Namen,names,0
+361,361,361,361,361,361,361,wahr,true,0
+362,362,362,362,362,362,362,Natürlich,Naturally,0
+363,363,363,363,363,363,363,töten,kill,0
+364,364,364,364,364,364,364,Nichts,nobody; nothingness; void; zero	noun,0
+365,365,365,365,365,365,365,bekommen,to get,0
+366,366,366,366,366,366,366,Männer,"men; males; husbands (nominative/genitive/accusative plural form of ""Mann"")	noun",0
+367,367,367,367,367,367,367,vergessen,to forget,0
+368,368,368,368,368,368,368,dazu,to,0
+369,369,369,369,369,369,369,gab,"gave (1st- and 3rd-person singular preterite of ""geben"")	verb",0
+370,370,370,370,370,370,370,später,later,0
+371,371,371,371,371,371,371,Art,kind; sort; type; species; way,0
+372,372,372,372,372,372,372,wusste,"(I/he/she/it) knew (1st- and 3rd-person singular preterite of ""wissen"")	verb",0
+373,373,373,373,373,373,373,Augen,eyes,0
+374,374,374,374,374,374,374,Dank,thanks,0
+375,375,375,375,375,375,375,Freunde,friends,0
+376,376,376,376,376,376,376,halten,hold,0
+377,377,377,377,377,377,377,Jungs,guys,0
+378,378,378,378,378,378,378,warten,waiting,0
+379,379,379,379,379,379,379,Glück,luck,0
+380,380,380,380,380,380,380,beide,both,0
+381,381,381,381,381,381,381,gute,quality,0
+382,382,382,382,382,382,382,Dein,Your,0
+383,383,383,383,383,383,383,kennen,know,0
+384,384,384,384,384,384,384,'n,'n,0
+385,385,385,385,385,385,385,Hi,Hi,0
+386,386,386,386,386,386,386,Dr,Dr,0
+387,387,387,387,387,387,387,Auto,automobile,0
+388,388,388,388,388,388,388,sage,"(I) say; tell (1st-person singular present; 1st- and 3rd-person singular subjunctive I; imperative singular of ""sagen"")	verb",0
+389,389,389,389,389,389,389,gehe,"(I) go; am going; go (1st-person singular present; 1st- and 3rd-person singular subjunctive I; imperative singular of ""gehen"")	verb",0
+390,390,390,390,390,390,390,komme,get,0
+391,391,391,391,391,391,391,Dir,to you,0
+392,392,392,392,392,392,392,mache,"to make; do (1st-person singular present; imperative singular; 1st- and 3rd-person singular subjunctive I of ""machen"")",0
+393,393,393,393,393,393,393,Von,From,0
+394,394,394,394,394,394,394,Uhr,Clock,0
+395,395,395,395,395,395,395,sehe,see,0
+396,396,396,396,396,396,396,Teufel,devil,0
+397,397,397,397,397,397,397,sonst,otherwise,0
+398,398,398,398,398,398,398,gern,gladly,0
+399,399,399,399,399,399,399,Liebe,love,0
+400,400,400,400,400,400,400,anfangen,to begin; start	verb,-1
+401,401,401,401,401,401,401,jeden,each,0
+402,402,402,402,402,402,402,könnten,"(we/you/they) could (1st- and 2rd-person plural subjunctive II of ""können"")	verb",0
+403,403,403,403,403,403,403,ihren,their,0
+404,404,404,404,404,404,404,Halt,Stop,-1
+405,405,405,405,405,405,405,Fall,case,-1
+406,406,406,406,406,406,406,Dad,Dad,0
+407,407,407,407,407,407,407,Film,Movie,0
+408,408,408,408,408,408,408,bisschen,little,0
+409,409,409,409,409,409,409,eigentlich,actually,0
+410,410,410,410,410,410,410,weit,far,0
+411,411,411,411,411,411,411,mach,mach,0
+412,412,412,412,412,412,412,vorbei,past,0
+413,413,413,413,413,413,413,verstehe,understand,0
+414,414,414,414,414,414,414,drin,in it,0
+415,415,415,415,415,415,415,Im,in the,0
+416,416,416,416,416,416,416,Name,Surname,0
+417,417,417,417,417,417,417,ganzen,all,0
+418,418,418,418,418,418,418,Musik,music,0
+419,419,419,419,419,419,419,würden,"(we/they/you all) would become (1st- and 3rd-person plural subjunctive II of ""werden"")	verb",0
+420,420,420,420,420,420,420,Tür,door,0
+421,421,421,421,421,421,421,solltest,should,0
+422,422,422,422,422,422,422,verrückt,insane,0
+423,423,423,423,423,423,423,denken,think,0
+424,424,424,424,424,424,424,Noch,Still,0
+425,425,425,425,425,425,425,dran,tuned,0
+426,426,426,426,426,426,426,Sieh,Look,0
+427,427,427,427,427,427,427,lieber,rather,0
+428,428,428,428,428,428,428,Den,The,0
+429,429,429,429,429,429,429,Guten,good,0
+430,430,430,430,430,430,430,darauf,thereon,-1
+431,431,431,431,431,431,431,Kein,No,0
+432,432,432,432,432,432,432,stimmt,Right,0
+433,433,433,433,433,433,433,John,John,0
+434,434,434,434,434,434,434,Kerl,Guy,0
+435,435,435,435,435,435,435,letzte,latest,0
+436,436,436,436,436,436,436,Job,job,0
+437,437,437,437,437,437,437,verloren,lost,0
+438,438,438,438,438,438,438,wurden,were,0
+439,439,439,439,439,439,439,kenne,know,0
+440,440,440,440,440,440,440,äh,er; ugh; uh; um	interjection,0
+441,441,441,441,441,441,441,Ahnung,idea,0
+442,442,442,442,442,442,442,seiner,its,0
+443,443,443,443,443,443,443,Grund,reason,0
+444,444,444,444,444,444,444,Bis,To,0
+445,445,445,445,445,445,445,toll,Great,0
+446,446,446,446,446,446,446,Verdammt,Damn it,0
+447,447,447,447,447,447,447,bald,soon,0
+448,448,448,448,448,448,448,bereit,ready,0
+449,449,449,449,449,449,449,jemanden,someone,0
+450,450,450,450,450,450,450,hinter,Behind,0
+451,451,451,451,451,451,451,Hand,hand,0
+452,452,452,452,452,452,452,darf,may,0
+453,453,453,453,453,453,453,Dieser,This,-1
+454,454,454,454,454,454,454,Frauen,women,0
+455,455,455,455,455,455,455,Idee,idea,0
+456,456,456,456,456,456,456,draußen,outside,0
+457,457,457,457,457,457,457,runter,down,0
+458,458,458,458,458,458,458,lang,long,0
+459,459,459,459,459,459,459,Land,country,0
+460,460,460,460,460,460,460,lass,let,0
+461,461,461,461,461,461,461,Typ,Type,0
+462,462,462,462,462,462,462,hätten,had,0
+463,463,463,463,463,463,463,egal,no matter,-1
+464,464,464,464,464,464,464,spät,late,0
+465,465,465,465,465,465,465,stehen,stand,0
+466,466,466,466,466,466,466,ok,OK,0
+467,467,467,467,467,467,467,Gute,Quality,0
+468,468,468,468,468,468,468,gekommen,come,0
+469,469,469,469,469,469,469,etwa,approximately,0
+470,470,470,470,470,470,470,essen,eat,0
+471,471,471,471,471,471,471,kleine,small,0
+472,472,472,472,472,472,472,jeder,everyone,0
+473,473,473,473,473,473,473,Schwester,sister,0
+474,474,474,474,474,474,474,Wasser,water,0
+475,475,475,475,475,475,475,spielen,play,0
+476,476,476,476,476,476,476,Geschichte,history,0
+477,477,477,477,477,477,477,seinem,his,0
+478,478,478,478,478,478,478,liegt,lies,0
+479,479,479,479,479,479,479,Mom,Mom,0
+480,480,480,480,480,480,480,sah,saw,0
+481,481,481,481,481,481,481,Seite,page,0
+482,482,482,482,482,482,482,ruhig,calm,0
+483,483,483,483,483,483,483,wenig,little,0
+484,484,484,484,484,484,484,Frage,question,0
+485,485,485,485,485,485,485,meinst,mean,0
+486,486,486,486,486,486,486,fahren,drive,0
+487,487,487,487,487,487,487,überhaupt,at all,0
+488,488,488,488,488,488,488,Ganz,All,0
+489,489,489,489,489,489,489,Essen,eat,0
+490,490,490,490,490,490,490,Ruhe,Quiet,0
+491,491,491,491,491,491,491,echt,real,0
+492,492,492,492,492,492,492,versucht,tries,-1
+493,493,493,493,493,493,493,Kommt,comes,0
+494,494,494,494,494,494,494,Tochter,daughter,0
+495,495,495,495,495,495,495,Einen,a,0
+496,496,496,496,496,496,496,ging,"went; walked (past tense form of ""gehen"")	verb",0
+497,497,497,497,497,497,497,Jahr,year,0
+498,498,498,498,498,498,498,braucht,need,0
+499,499,499,499,499,499,499,fast,nearly,0
+500,500,500,500,500,500,500,neue,new,0
+501,501,501,501,501,501,501,Alter,age; old age	noun,0
+502,502,502,502,502,502,502,ziemlich,quite,0
+503,503,503,503,503,503,503,anders,differently; distinctly; else	adverb,0
+504,504,504,504,504,504,504,siehst,see,0
+505,505,505,505,505,505,505,Polizei,police,0
+506,506,506,506,506,506,506,Stunden,hours,0
+507,507,507,507,507,507,507,musste,"(I/he/she/it) had to (1st- and 3rd-person singular preterite of ""müssen"")	verb",0
+508,508,508,508,508,508,508,Spiel,game,0
+509,509,509,509,509,509,509,gewesen,"been (past participle of ""sein"")",0
+510,510,510,510,510,510,510,gerne,with pleasure,0
+511,511,511,511,511,511,511,finde,find,0
+512,512,512,512,512,512,512,erzählt,tells,0
+513,513,513,513,513,513,513,Tod,death,0
+514,514,514,514,514,514,514,Ort,place,0
+515,515,515,515,515,515,515,Chance,chance,0
+516,516,516,516,516,516,516,bedeutet,means,0
+517,517,517,517,517,517,517,War,was,0
+518,518,518,518,518,518,518,sagst,"(you) say; tell (2nd-person singular present of ""sagen"")	verb",0
+519,519,519,519,519,519,519,fragen,ask,0
+520,520,520,520,520,520,520,letzten,last,0
+521,521,521,521,521,521,521,sogar,even,0
+522,522,522,522,522,522,522,ersten,first,-1
+523,523,523,523,523,523,523,Sachen,stuff,0
+524,524,524,524,524,524,524,Wahrheit,truth,0
+525,525,525,525,525,525,525,einzige,single,0
+526,526,526,526,526,526,526,kurz,short,0
+527,527,527,527,527,527,527,denen,to those,0
+528,528,528,528,528,528,528,Kommen,Come,0
+529,529,529,529,529,529,529,Spaß,fun,0
+530,530,530,530,530,530,530,gehst,"(you / ""du"") go; are going (2nd-person singular present of ""gehen"")	verb",0
+531,531,531,531,531,531,531,oben,above,0
+532,532,532,532,532,532,532,Mama,mummy,-1
+533,533,533,533,533,533,533,schwer,heavy,0
+534,534,534,534,534,534,534,Schule,school,0
+535,535,535,535,535,535,535,je,ever,0
+536,536,536,536,536,536,536,eben,just,0
+537,537,537,537,537,537,537,Gesicht,face,0
+538,538,538,538,538,538,538,bestimmt,certainly,0
+539,539,539,539,539,539,539,treffen,to meet,0
+540,540,540,540,540,540,540,niemand,nobody,0
+541,541,541,541,541,541,541,Woche,week,0
+542,542,542,542,542,542,542,Entschuldigung,Excuse me,0
+543,543,543,543,543,543,543,Sorgen,To care,0
+544,544,544,544,544,544,544,warte,wait,0
+545,545,545,545,545,545,545,natürlich,Naturally,0
+546,546,546,546,546,546,546,schlecht,bad,0
+547,547,547,547,547,547,547,getötet,killed,0
+548,548,548,548,548,548,548,große,size,0
+549,549,549,549,549,549,549,verstehen,understand,0
+550,550,550,550,550,550,550,hoffe,hope,0
+551,551,551,551,551,551,551,Ah,ooh; ah; oh	interjection,0
+552,552,552,552,552,552,552,ändern,to change; modify; alter	verb,0
+553,553,553,553,553,553,553,Sei,Be,0
+554,554,554,554,554,554,554,Zimmer,room,0
+555,555,555,555,555,555,555,hoch,high,0
+556,556,556,556,556,556,556,unserer,"our (feminine genitive/dative singular; genitive plural of ""unser"")	possessive pronoun",0
+557,557,557,557,557,557,557,Tage,days,0
+558,558,558,558,558,558,558,Teil,part,0
+559,559,559,559,559,559,559,suchen,search,0
+560,560,560,560,560,560,560,Wann,When,0
+561,561,561,561,561,561,561,verlassen,leave,0
+562,562,562,562,562,562,562,zeigen,demonstrate,0
+563,563,563,563,563,563,563,wollten,wanted to,0
+564,564,564,564,564,564,564,lässt,leaves,0
+565,565,565,565,565,565,565,Wort,word,0
+566,566,566,566,566,566,566,eins,one,0
+567,567,567,567,567,567,567,zwischen,between,0
+568,568,568,568,568,568,568,Woher,From where,0
+569,569,569,569,569,569,569,Schatz,sweetheart,0
+570,570,570,570,570,570,570,versuchen,to attempt,0
+571,571,571,571,571,571,571,nett,kind,0
+572,572,572,572,572,572,572,Zu,To,0
+573,573,573,573,573,573,573,Arsch,arse; ass; butt	noun,0
+574,574,574,574,574,574,574,kriegen,get,0
+575,575,575,575,575,575,575,kleinen,small,0
+576,576,576,576,576,576,576,Hab,hab,-1
+577,577,577,577,577,577,577,weiss,White,0
+578,578,578,578,578,578,578,erste,first,0
+579,579,579,579,579,579,579,läuft,running,0
+580,580,580,580,580,580,580,kommst,coming,0
+581,581,581,581,581,581,581,Freundin,girlfriend,0
+582,582,582,582,582,582,582,Mensch,human,0
+583,583,583,583,583,583,583,beiden,both,-1
+584,584,584,584,584,584,584,Ding,thing,0
+585,585,585,585,585,585,585,endlich,Finally,0
+586,586,586,586,586,586,586,niemals,No way,0
+587,587,587,587,587,587,587,Nimm,take,0
+588,588,588,588,588,588,588,muß,got to,0
+589,589,589,589,589,589,589,denkst,think,0
+590,590,590,590,590,590,590,Herz,heart,0
+591,591,591,591,591,591,591,Waffe,weapon,1
+592,592,592,592,592,592,592,Dollar,dollar,0
+593,593,593,593,593,593,593,tust,"(you) do; (you) are doing (2nd-person singular present of ""tun"")	verb",0
+594,594,594,594,594,594,594,nehme,take,0
+595,595,595,595,595,595,595,Schau,show,0
+596,596,596,596,596,596,596,holen,pick up,0
+597,597,597,597,597,597,597,oft,often,0
+598,598,598,598,598,598,598,drauf,it,0
+599,599,599,599,599,599,599,Niemand,Nobody,0
+600,600,600,600,600,600,600,unten,below,0
+601,601,601,601,601,601,601,Wagen,dare,0
+602,602,602,602,602,602,602,Yeah,yeah,0
+603,603,603,603,603,603,603,wichtig,important,0
+604,604,604,604,604,604,604,Mrs,mrs,0
+605,605,605,605,605,605,605,hättest,had,0
+606,606,606,606,606,606,606,Miss,Miss,0
+607,607,607,607,607,607,607,ihrer,genitive of sie (third-person singular and third-person plural); to her (feminine dative and genitive singular of ihr); feminine genitive plural of ihr	personal pronoun; possessive pronoun,0
+608,608,608,608,608,608,608,gedacht,thought,0
+609,609,609,609,609,609,609,Nummer,number,0
+610,610,610,610,610,610,610,würdest,would,0
+611,611,611,611,611,611,611,erzählen,tell,0
+612,612,612,612,612,612,612,bleibt,remains,0
+613,613,613,613,613,613,613,Hände,hands,0
+614,614,614,614,614,614,614,Blut,blood,0
+615,615,615,615,615,615,615,bloß,just,0
+616,616,616,616,616,616,616,recht,Law,0
+617,617,617,617,617,617,617,Bett,bed,0
+618,618,618,618,618,618,618,bringt,brings,0
+619,619,619,619,619,619,619,Lassen,To let,0
+620,620,620,620,620,620,620,Eltern,parents,0
+621,621,621,621,621,621,621,gefällt,like,0
+622,622,622,622,622,622,622,Schuld,fault,0
+623,623,623,623,623,623,623,eure,your,0
+624,624,624,624,624,624,624,Plan,plan,0
+625,625,625,625,625,625,625,Krieg,war,0
+626,626,626,626,626,626,626,neuen,new,0
+627,627,627,627,627,627,627,Klar,Clear,0
+628,628,628,628,628,628,628,retten,rescue,0
+629,629,629,629,629,629,629,guter,goods,0
+630,630,630,630,630,630,630,während,while,0
+631,631,631,631,631,631,631,ihrem,their,0
+632,632,632,632,632,632,632,wären,would,0
+633,633,633,633,633,633,633,Fehler,error,0
+634,634,634,634,634,634,634,scheint,seems,0
+635,635,635,635,635,635,635,Lasst,Leaves,0
+636,636,636,636,636,636,636,gegeben,"given (past participle of ""geben"")	verb",0
+637,637,637,637,637,637,637,hör,hear,0
+638,638,638,638,638,638,638,glücklich,happy,0
+639,639,639,639,639,639,639,alt,old,0
+640,640,640,640,640,640,640,verdammt,damned,0
+641,641,641,641,641,641,641,Platz,space,0
+642,642,642,642,642,642,642,darum,therefore,0
+643,643,643,643,643,643,643,Vielen,a lot of,0
+644,644,644,644,644,644,644,falsch,not correct,0
+645,645,645,645,645,645,645,unseren,"our (masculine accusative singular; dative plural or ""unser""); of us; those who are ours/our close ones (when used with the article ""die Unseren""; capitalized)	possessive pronoun",0
+646,646,646,646,646,646,646,schlafen,sleep,0
+647,647,647,647,647,647,647,Sagen,Say,0
+648,648,648,648,648,648,648,nächsten,next,0
+649,649,649,649,649,649,649,fünf,five,0
+650,650,650,650,650,650,650,frei,free,0
+651,651,651,651,651,651,651,Sorge,worry,0
+652,652,652,652,652,652,652,fest,firmly,0
+653,653,653,653,653,653,653,bereits,already,-1
+654,654,654,654,654,654,654,alleine,alone,0
+655,655,655,655,655,655,655,Denn,Because,0
+656,656,656,656,656,656,656,Zwei,Two,0
+657,657,657,657,657,657,657,Fragen,ask,0
+658,658,658,658,658,658,658,möglich,possible,-1
+659,659,659,659,659,659,659,irgendwie,somehow,0
+660,660,660,660,660,660,660,gestern,yesterday,0
+661,661,661,661,661,661,661,lernen,learn,0
+662,662,662,662,662,662,662,Papa,father,0
+663,663,663,663,663,663,663,hierher,here,0
+664,664,664,664,664,664,664,Schiff,ship,0
+665,665,665,665,665,665,665,irgendwas,anything,0
+666,666,666,666,666,666,666,vier,four,0
+667,667,667,667,667,667,667,Menge,amount,0
+668,668,668,668,668,668,668,Stimmt,Right,0
+669,669,669,669,669,669,669,keiner,none,0
+670,670,670,670,670,670,670,brauchst,need,0
+671,671,671,671,671,671,671,Typen,types,0
+672,672,672,672,672,672,672,Dass,That,0
+673,673,673,673,673,673,673,Stunde,hour,0
+674,674,674,674,674,674,674,Szene,scene,0
+675,675,675,675,675,675,675,Hölle,hell,0
+676,676,676,676,676,676,676,einige,some,0
+677,677,677,677,677,677,677,Deshalb,That's why,0
+678,678,678,678,678,678,678,geworden,become,0
+679,679,679,679,679,679,679,Telefon,phone,0
+680,680,680,680,680,680,680,Darf,May,0
+681,681,681,681,681,681,681,Feuer,Fire,0
+682,682,682,682,682,682,682,Bin,am,0
+683,683,683,683,683,683,683,Captain,Captain,0
+684,684,684,684,684,684,684,Aus,Out,0
+685,685,685,685,685,685,685,Dieses,This,0
+686,686,686,686,686,686,686,Probleme,issues,0
+687,687,687,687,687,687,687,Jeder,Everyone,0
+688,688,688,688,688,688,688,verstanden,Roger that,0
+689,689,689,689,689,689,689,wann,when,0
+690,690,690,690,690,690,690,gibt's,there's,-1
+691,691,691,691,691,691,691,sondern,rather,0
+692,692,692,692,692,692,692,guten,good,-1
+693,693,693,693,693,693,693,zwar,though,0
+694,694,694,694,694,694,694,eigenen,own,0
+695,695,695,695,695,695,695,Körper,body,0
+696,696,696,696,696,696,696,New,New,-1
+697,697,697,697,697,697,697,hört,hears,0
+698,698,698,698,698,698,698,gebe,"(I) give; (I) am giving (1st-person singular present; 1st- and 3rd-person singular subjunctive I of ""geben"")	verb",0
+699,699,699,699,699,699,699,Kumpel,pal,0
+700,700,700,700,700,700,700,Hund,dog,0
+701,701,701,701,701,701,701,nochmal,once again,0
+702,702,702,702,702,702,702,hab's,got it,0
+703,703,703,703,703,703,703,aufhören,to stop; end;quit	verb,0
+704,704,704,704,704,704,704,früh,early,0
+705,705,705,705,705,705,705,Hören,Hear,0
+706,706,706,706,706,706,706,trinken,drink,0
+707,707,707,707,707,707,707,besten,best,0
+708,708,708,708,708,708,708,meines,mine,0
+709,709,709,709,709,709,709,schaffen,create,0
+710,710,710,710,710,710,710,Luft,air,0
+711,711,711,711,711,711,711,Jemand,Someone,0
+712,712,712,712,712,712,712,dürfen,allowed,0
+713,713,713,713,713,713,713,Meister,master,0
+714,714,714,714,714,714,714,Erde,earth,0
+715,715,715,715,715,715,715,Seit,since,0
+716,716,716,716,716,716,716,Antwort,an answer; reply; response	noun,0
+717,717,717,717,717,717,717,Sicher,For sure,0
+718,718,718,718,718,718,718,Hört,hear,0
+719,719,719,719,719,719,719,Zukunft,future,0
+720,720,720,720,720,720,720,funktioniert,is working,0
+721,721,721,721,721,721,721,kaum,barely,0
+722,722,722,722,722,722,722,voll,full,0
+723,723,723,723,723,723,723,Bleib,Stay,0
+724,724,724,724,724,724,724,reicht,enough,0
+725,725,725,725,725,725,725,weh,sore,0
+726,726,726,726,726,726,726,stellen,put,0
+727,727,727,727,727,727,727,Siehst,See,0
+728,728,728,728,728,728,728,kleiner,smaller,0
+729,729,729,729,729,729,729,großen,great,0
+730,730,730,730,730,730,730,Büro,office,0
+731,731,731,731,731,731,731,Waffen,weapons,0
+732,732,732,732,732,732,732,Wahl,choice,0
+733,733,733,733,733,733,733,verlieren,to lose,0
+734,734,734,734,734,734,734,Wochen,weeks,0
+735,735,735,735,735,735,735,Stück,piece,0
+736,736,736,736,736,736,736,lieben,love,0
+737,737,737,737,737,737,737,getroffen,met,0
+738,738,738,738,738,738,738,geschafft,made,0
+739,739,739,739,739,739,739,tue,"(I) do; (I am) doing (1st-person singular present; 1st- and 3rd-person singular subjunctive I; imperative singular of ""tun"")	verb",0
+740,740,740,740,740,740,740,gefallen,like,0
+741,741,741,741,741,741,741,Tja,Well,0
+742,742,742,742,742,742,742,Boss,boss,0
+743,743,743,743,743,743,743,überall,all over,0
+744,744,744,744,744,744,744,Sieht,looks,0
+745,745,745,745,745,745,745,passieren,happen,0
+746,746,746,746,746,746,746,Licht,light,0
+747,747,747,747,747,747,747,lustig,funny,0
+748,748,748,748,748,748,748,gebracht,brought,0
+749,749,749,749,749,749,749,Folge,episode,-1
+750,750,750,750,750,750,750,nennen,call,0
+751,751,751,751,751,751,751,Gefühl,feeling,0
+752,752,752,752,752,752,752,völlig,completely,0
+753,753,753,753,753,753,753,denkt,thinks,0
+754,754,754,754,754,754,754,Schlüssel,key,0
+755,755,755,755,755,755,755,drüben,over there,0
+756,756,756,756,756,756,756,Richtig,Right,0
+757,757,757,757,757,757,757,wieso,how so,0
+758,758,758,758,758,758,758,Buch,book,0
+759,759,759,759,759,759,759,Leuten,people,0
+760,760,760,760,760,760,760,laufen,to run,0
+761,761,761,761,761,761,761,spielt,plays,0
+762,762,762,762,762,762,762,früher,earlier,0
+763,763,763,763,763,763,763,Sein,His,0
+764,764,764,764,764,764,764,Sam,Sam,0
+765,765,765,765,765,765,765,krank,Sick,0
+766,766,766,766,766,766,766,gegangen,"gone (past participle of ""gehen"")	verb",0
+767,767,767,767,767,767,767,fand,found,0
+768,768,768,768,768,768,768,Seine,His,0
+769,769,769,769,769,769,769,Pass,passport,0
+770,770,770,770,770,770,770,fühle,feel,0
+771,771,771,771,771,771,771,Himmel,sky,0
+772,772,772,772,772,772,772,froh,glad,0
+773,773,773,773,773,773,773,Arschloch,asshole,0
+774,774,774,774,774,774,774,leicht,light,0
+775,775,775,775,775,775,775,direkt,directly,0
+776,776,776,776,776,776,776,langsam,slowly,0
+777,777,777,777,777,777,777,erinnern,recall,0
+778,778,778,778,778,778,778,wolltest,wanted,0
+779,779,779,779,779,779,779,zuerst,first,0
+780,780,780,780,780,780,780,Krankenhaus,hospital,0
+781,781,781,781,781,781,781,beste,best,0
+782,782,782,782,782,782,782,welche,Which,0
+783,783,783,783,783,783,783,genommen,took,0
+784,784,784,784,784,784,784,Arzt,doctor; physician	noun,0
+785,785,785,785,785,785,785,unserem,"our (masculine/neuter dative singular of ""unser"")	possessive pronoun",0
+786,786,786,786,786,786,786,Idiot,idiot,0
+787,787,787,787,787,787,787,glaubst,think,0
+788,788,788,788,788,788,788,jede,each,0
+789,789,789,789,789,789,789,Ohne,Without,0
+790,790,790,790,790,790,790,groß,large,0
+791,791,791,791,791,791,791,hattest,had,-1
+792,792,792,792,792,792,792,Jungen,Boys,0
+793,793,793,793,793,793,793,Rest,rest,0
+794,794,794,794,794,794,794,Unsere,of us; that which is ours (when used with articles: der Unsere; die Unsere; das Unsere; capitalized)	possessive pronoun,0
+795,795,795,795,795,795,795,versuche,tries,0
+796,796,796,796,796,796,796,Tagen,meet,0
+797,797,797,797,797,797,797,Entschuldigen,To apologize,0
+798,798,798,798,798,798,798,nächste,next,0
+799,799,799,799,799,799,799,Doktor,doctor,0
+800,800,800,800,800,800,800,könnt,can,0
+801,801,801,801,801,801,801,spricht,speaks,0
+802,802,802,802,802,802,802,hält,keeps,0
+803,803,803,803,803,803,803,Team,team,0
+804,804,804,804,804,804,804,Verstanden,Roger that,0
+805,805,805,805,805,805,805,kämpfen,fight,0
+806,806,806,806,806,806,806,heiraten,marry,0
+807,807,807,807,807,807,807,könntest,"(you) could (2nd-person singular subjunctive II of ""können"")",-1
+808,808,808,808,808,808,808,Mike,Mike,0
+809,809,809,809,809,809,809,Wow,Wow,0
+810,810,810,810,810,810,810,Etwas,Something,0
+811,811,811,811,811,811,811,Mist,dung,-1
+812,812,812,812,812,812,812,Straße,Street,0
+813,813,813,813,813,813,813,König,king,0
+814,814,814,814,814,814,814,redest,talking about,0
+815,815,815,815,815,815,815,kleines,small,0
+816,816,816,816,816,816,816,lebt,lives,0
+817,817,817,817,817,817,817,erklären,to explain,0
+818,818,818,818,818,818,818,worden,been,0
+819,819,819,819,819,819,819,Millionen,millions,0
+820,820,820,820,820,820,820,Wiedersehen,meet again,0
+821,821,821,821,821,821,821,Onkel,uncle,0
+822,822,822,822,822,822,822,kennst,know,0
+823,823,823,823,823,823,823,sitzen,sit,0
+824,824,824,824,824,824,824,dies,this,0
+825,825,825,825,825,825,825,weniger,fewer,0
+826,826,826,826,826,826,826,Kaffee,coffee,0
+827,827,827,827,827,827,827,ernst,serious,0
+828,828,828,828,828,828,828,tragen,carry,0
+829,829,829,829,829,829,829,wollt,want,0
+830,830,830,830,830,830,830,Zeug,stuff,0
+831,831,831,831,831,831,831,trotzdem,Nevertheless,0
+832,832,832,832,832,832,832,Michael,Michael,0
+833,833,833,833,833,833,833,Ihren,Their,0
+834,834,834,834,834,834,834,kaufen,to buy,0
+835,835,835,835,835,835,835,Liste,list,0
+836,836,836,836,836,836,836,Kampf,struggle,0
+837,837,837,837,837,837,837,hasse,hate,0
+838,838,838,838,838,838,838,Person,person,0
+839,839,839,839,839,839,839,Mund,mouth,0
+840,840,840,840,840,840,840,Präsident,president,0
+841,841,841,841,841,841,841,umbringen,kill,0
+842,842,842,842,842,842,842,Boden,ground,0
+843,843,843,843,843,843,843,machte,made,0
+844,844,844,844,844,844,844,Wohin,Where,0
+845,845,845,845,845,845,845,Party,party,0
+846,846,846,846,846,846,846,gefragt,asked,0
+847,847,847,847,847,847,847,Seht,Look,0
+848,848,848,848,848,848,848,irgendwo,somewhere,0
+849,849,849,849,849,849,849,kümmern,To take care of,0
+850,850,850,850,850,850,850,Frank,Frank,0
+851,851,851,851,851,851,851,kennt,knows,0
+852,852,852,852,852,852,852,Habt,Have,0
+853,853,853,853,853,853,853,verletzt,injured,0
+854,854,854,854,854,854,854,Nachricht,message,-1
+855,855,855,855,855,855,855,vielen,a lot of,0
+856,856,856,856,856,856,856,Willkommen,welcome,-1
+857,857,857,857,857,857,857,hart,hard,0
+858,858,858,858,858,858,858,lasse,leave,0
+859,859,859,859,859,859,859,total,total,0
+860,860,860,860,860,860,860,außer,except,0
+861,861,861,861,861,861,861,Gefängnis,jail,0
+862,862,862,862,862,862,862,Schnell,Fast,0
+863,863,863,863,863,863,863,Sicherheit,security,0
+864,864,864,864,864,864,864,wem,whom,0
+865,865,865,865,865,865,865,ehrlich,Honestly,0
+866,866,866,866,866,866,866,interessiert,Interested,0
+867,867,867,867,867,867,867,sagten,said,0
+868,868,868,868,868,868,868,Sex,sex,0
+869,869,869,869,869,869,869,ziehen,pull,0
+870,870,870,870,870,870,870,Welche,Which,0
+871,871,871,871,871,871,871,Augenblick,moment,0
+872,872,872,872,872,872,872,Klasse,class,0
+873,873,873,873,873,873,873,Bild,image,0
+874,874,874,874,874,874,874,Dies,This,0
+875,875,875,875,875,875,875,stark,strongly,0
+876,876,876,876,876,876,876,Eure,Your,0
+877,877,877,877,877,877,877,zehn,ten,0
+878,878,878,878,878,878,878,Sinn,sense,0
+879,879,879,879,879,879,879,David,David,0
+880,880,880,880,880,880,880,vorstellen,imagine,0
+881,881,881,881,881,881,881,Tom,Tom,0
+882,882,882,882,882,882,882,Traum,dream,0
+883,883,883,883,883,883,883,länger,longer,0
+884,884,884,884,884,884,884,manchmal,sometimes,0
+885,885,885,885,885,885,885,sechs,six,0
+886,886,886,886,886,886,886,sollst,shalt,0
+887,887,887,887,887,887,887,gestorben,died,0
+888,888,888,888,888,888,888,Tages,day,0
+889,889,889,889,889,889,889,war's,was it,0
+890,890,890,890,890,890,890,Kraft,force,0
+891,891,891,891,891,891,891,verschwinden,disappear,0
+892,892,892,892,892,892,892,gesprochen,spoken,0
+893,893,893,893,893,893,893,heraus,out,0
+894,894,894,894,894,894,894,genauso,just like that,0
+895,895,895,895,895,895,895,wärst,'d,0
+896,896,896,896,896,896,896,Eins,one,0
+897,897,897,897,897,897,897,damals,back then,0
+898,898,898,898,898,898,898,heißen,be called,0
+899,899,899,899,899,899,899,Liebling,Darling,0
+900,900,900,900,900,900,900,wahrscheinlich,probably,0
+901,901,901,901,901,901,901,deshalb,that's why,0
+902,902,902,902,902,902,902,Stelle,location,0
+903,903,903,903,903,903,903,halt,stop,0
+904,904,904,904,904,904,904,lhren,NOT CONNECT,0
+905,905,905,905,905,905,905,Bill,Bill,0
+906,906,906,906,906,906,906,erwartet,expected,0
+907,907,907,907,907,907,907,solche,such,0
+908,908,908,908,908,908,908,meisten,most,-1
+909,909,909,909,909,909,909,bringe,bring,0
+910,910,910,910,910,910,910,still,quiet,0
+911,911,911,911,911,911,911,umgebracht,killed,0
+912,912,912,912,912,912,912,Stimme,voice,-1
+913,913,913,913,913,913,913,General,general,0
+914,914,914,914,914,914,914,Entschuldige,Excuse me,0
+915,915,915,915,915,915,915,rede,speech,0
+916,916,916,916,916,916,916,Vergiss,forget,0
+917,917,917,917,917,917,917,Bewegung,Move,0
+918,918,918,918,918,918,918,führen,to lead,0
+919,919,919,919,919,919,919,höre,hear,0
+920,920,920,920,920,920,920,Sonst,Otherwise,0
+921,921,921,921,921,921,921,Geschäft,business,0
+922,922,922,922,922,922,922,werdet,"(you) will (2nd-person plural present; 2nd-person plural subjunctive I; imperative plural of ""werden"")	verb",0
+923,923,923,923,923,923,923,konnten,could,0
+924,924,924,924,924,924,924,wartet,waiting,0
+925,925,925,925,925,925,925,Raus,Out,0
+926,926,926,926,926,926,926,Habe,possessions; belongings	noun,0
+927,927,927,927,927,927,927,hinten,behind,0
+928,928,928,928,928,928,928,fällt,falls,0
+929,929,929,929,929,929,929,wen,whom,0
+930,930,930,930,930,930,930,Sekunden,seconds,0
+931,931,931,931,931,931,931,Manchmal,Sometimes,0
+932,932,932,932,932,932,932,gerettet,rescued,0
+933,933,933,933,933,933,933,Naja,Well,0
+934,934,934,934,934,934,934,jemals,ever,-1
+935,935,935,935,935,935,935,Meinung,opinion,-1
+936,936,936,936,936,936,936,geschehen,done,0
+937,937,937,937,937,937,937,schlimm,bad,0
+938,938,938,938,938,938,938,Eigentlich,Actually,0
+939,939,939,939,939,939,939,findet,finds,0
+940,940,940,940,940,940,940,gewinnen,win,0
+941,941,941,941,941,941,941,Scheiß,shit,0
+942,942,942,942,942,942,942,Gedanken,thoughts,0
+943,943,943,943,943,943,943,erinnere,remember,0
+944,944,944,944,944,944,944,George,George,0
+945,945,945,945,945,945,945,Herren,Men's,0
+946,946,946,946,946,946,946,mögen,to like,0
+947,947,947,947,947,947,947,Earl,Earl,0
+948,948,948,948,948,948,948,York,York,0
+949,949,949,949,949,949,949,klingt,sounds,0
+950,950,950,950,950,950,950,vorher,before,0
+951,951,951,951,951,951,951,Auge,eye,0
+952,952,952,952,952,952,952,hab',hab ',0
+953,953,953,953,953,953,953,setzen,put,0
+954,954,954,954,954,954,954,cool,cool,0
+955,955,955,955,955,955,955,Anfang,beginning; start	noun,0
+956,956,956,956,956,956,956,danach,after that,0
+957,957,957,957,957,957,957,Lebens,life,0
+958,958,958,958,958,958,958,Monate,months,0
+959,959,959,959,959,959,959,Beste,best,0
+960,960,960,960,960,960,960,benutzen,use,0
+961,961,961,961,961,961,961,Nehmen,To take,-1
+962,962,962,962,962,962,962,fühlen,feel,0
+963,963,963,963,963,963,963,Ärger,annoyance; anger; worry	noun,0
+964,964,964,964,964,964,964,Rolle,role,0
+965,965,965,965,965,965,965,gefährlich,dangerous,0
+966,966,966,966,966,966,966,Dort,There,0
+967,967,967,967,967,967,967,gelernt,learned,0
+968,968,968,968,968,968,968,fallen,fall,0
+969,969,969,969,969,969,969,böse,angry,0
+970,970,970,970,970,970,970,werd,expectant,0
+971,971,971,971,971,971,971,Nähe,neighborhood,0
+972,972,972,972,972,972,972,geschickt,cleverly,0
+973,973,973,973,973,973,973,liebt,loves,0
+974,974,974,974,974,974,974,Tisch,table,-1
+975,975,975,975,975,975,975,Raum,room,0
+976,976,976,976,976,976,976,Ziel,aim,0
+977,977,977,977,977,977,977,jedem,each,0
+978,978,978,978,978,978,978,fliegen,fly,0
+979,979,979,979,979,979,979,Wohnung,flat,0
+980,980,980,980,980,980,980,Dafür,Therefore,0
+981,981,981,981,981,981,981,lhnen,wages sent,0
+982,982,982,982,982,982,982,erfahren,experience,0
+983,983,983,983,983,983,983,dumm,stupid,0
+984,984,984,984,984,984,984,by,by,0
+985,985,985,985,985,985,985,eher,rather,0
+986,986,986,986,986,986,986,vorsichtig,carefully,0
+987,987,987,987,987,987,987,herum,around,-2
+988,988,988,988,988,988,988,Klappe,flap,0
+989,989,989,989,989,989,989,Laden,load,0
+990,990,990,990,990,990,990,schicken,send,0
+991,991,991,991,991,991,991,aufs,onto,0
+992,992,992,992,992,992,992,großer,greater,0
+993,993,993,993,993,993,993,Warten,Waiting,0
+994,994,994,994,994,994,994,Charlie,Charlie,0
+995,995,995,995,995,995,995,Euer,Your,0
+996,996,996,996,996,996,996,richtige,right one,1
