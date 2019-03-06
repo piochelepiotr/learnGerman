@@ -39,6 +39,8 @@ def create_new_learning_book():
         n = df.shape[0]
         # tries you again on this word after remind is bellow 0
         df['remind'] = [0 for i in range(n)]
+        df['attempts'] = [0 for i in range(n)]
+        df['fails'] = [0 for i in range(n)]
     except FileNotFoundError:
         print("Can't find translation. Exiting")
         exit(1)
@@ -57,9 +59,11 @@ def get_command():
     return x
 
 def choose_word(book):
+    current_min = 0
+    current_max = 400
     n = book.shape[0]
     while True:
-        i = randint(0, n-1)
+        i = randint(max(0, current_min), min(n-1, current_max))
         book.loc[i,'remind'] = book['remind'][i] - 1
         if book['remind'][i] < 0:
             return i
@@ -67,23 +71,32 @@ def choose_word(book):
 def exercice(book, previous, i = -1):
     if i == -1:
         i = choose_word(book)
-    print(book['english'][i])
+    attempts = book['attempts'][i]
+    fails = book['fails'][i]
+    print("({}/{}) {}".format(attempts - fails, attempts, book['english'][i]))
     translation = book['german'][i]
     r = get_command()
     if r == Commands.IKNOWIT:
-        book.loc[i,'remind'] = 10000000
+        book.loc[i,'attempts'] = book['attempts'][i] + 1
+        book.loc[i,'remind'] = 10
         print(bcolors.OKBLUE + translation + bcolors.ENDC)
     elif r == Commands.DONTKNOW:
+        book.loc[i,'attempts'] = book['attempts'][i] + 1
+        book.loc[i,'fails'] = book['fails'][i] + 1
         print(bcolors.WARNING + translation + bcolors.ENDC)
+        os.system("say -v Anna \"{}\"".format(translation))
     elif r == Commands.LETSTRY:
         r = input('>')
+        book.loc[i,'attempts'] = book['attempts'][i] + 1
         if r.lower() != translation.lower():
             print(bcolors.FAIL + translation + bcolors.ENDC)
+            book.loc[i,'fails'] = book['fails'][i] + 1
+            os.system("say -v Anna \"{}\"".format(translation))
         else:
-            book.loc[i,'remind'] = 1
+            book.loc[i,'remind'] = 10
     elif r == Commands.SAYPREVIOUS:
         #print("say {}".format(previous))
-        os.system("say -v Anna {}".format(previous))
+        os.system("say -v Anna \"{}\"".format(previous))
         return exercice(book, previous, i)
     elif r == Commands.EXIT:
         return None
